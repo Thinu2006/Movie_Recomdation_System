@@ -1,5 +1,7 @@
 # Movie_Recomdation_System
 
+![img1](https://github.com/user-attachments/assets/ebcfa395-b407-4e66-b500-eedfe7f03e1e)
+
 ## Overview:
 This report outlines the development of a Movie Recommendation System utilizing user-based collaborative filtering and item-based similarity calculations using Pearson correlation. The system aims to predict movie recommendations based on user input, leveraging a dataset comprising user ratings and movie metadata.
 
