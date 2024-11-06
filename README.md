@@ -37,7 +37,7 @@ An item similarity matrix was computed using Pearson correlation to quantify the
 ## Recommendation Engine:
 The recommendation system is designed to provide personalized movie recommendations based on user input. The main functionalities include:
 1. **Retrieving Movie ID:** The system checks if the user-input movie title exists in the dataset and retrieves the corresponding movie ID.
-2.**Checking Similarity:** The system ensures that the retrieved movie ID exists in the item similarity matrix before proceeding.
+2. **Checking Similarity:** The system ensures that the retrieved movie ID exists in the item similarity matrix before proceeding.
 3. **Calculating Similar Movies:** Using the item similarity matrix, the system identifies movies that are similar to the input movie, sorting them by their similarity scores.
 4. **Visualizing Similarity Scores:** The correlation scores for the recommended movies are visualized through a bar plot, enhancing user understanding of the recommendations.
 5. **Returning Recommendations:** The system generates and presents a list of recommended movie titles to the user.
